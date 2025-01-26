@@ -1,0 +1,407 @@
+[
+    {
+        "id": 1,
+        "name": "Matte Lipstick",
+        "brand": "Joya",
+        "category": "Lipstick",
+        "price": 350,
+        "ratings": [5, 4, 3]
+    },
+    {
+        "id": 2,
+        "name": "Liquid Foundation",
+        "brand": "Parachute",
+        "category": "Foundation",
+        "price": 700,
+        "ratings": [4, 5]
+    },
+    {
+        "id": 3,
+        "name": "Eyeliner",
+        "brand": "Joya",
+        "category": "Eyeliner",
+        "price": 200,
+        "ratings": [3, 3, 4]
+    },
+    {
+        "id": 4,
+        "name": "Lip Gloss",
+        "brand": "Parachute",
+        "category": "Lipstick",
+        "price": 500,
+        "ratings": [4, 5, 4]
+    },
+    {
+        "id": 5,
+        "name": "Face Cream",
+        "brand": "Aloe Vera",
+        "category": "Skin Care",
+        "price": 450,
+        "ratings": [5, 5, 4]
+    },
+    {
+        "id": 6,
+        "name": "Nail Polish",
+        "brand": "MAYBELLINE",
+        "category": "Nail Care",
+        "price": 120,
+        "ratings": [4, 5, 4]
+    },
+    {
+        "id": 7,
+        "name": "Bronzer",
+        "brand": "L'Oréal",
+        "category": "Makeup",
+        "price": 650,
+        "ratings": [3, 4, 4]
+    },
+    {
+        "id": 8,
+        "name": "Concealer",
+        "brand": "Maybelline",
+        "category": "Foundation",
+        "price": 250,
+        "ratings": [4, 4, 5]
+    },
+    {
+        "id": 9,
+        "name": "Blush Powder",
+        "brand": "Revlon",
+        "category": "Makeup",
+        "price": 300,
+        "ratings": [4, 5, 5]
+    },
+    {
+        "id": 10,
+        "name": "Eye Shadow Palette",
+        "brand": "Urban Decay",
+        "category": "Eyes",
+        "price": 1200,
+        "ratings": [5, 4, 4]
+    },
+    {
+        "id": 11,
+        "name": "Setting Spray",
+        "brand": "MAC",
+        "category": "Makeup",
+        "price": 1000,
+        "ratings": [5, 5, 5]
+    },
+    {
+        "id": 12,
+        "name": "Highlighter",
+        "brand": "Fenty Beauty",
+        "category": "Makeup",
+        "price": 850,
+        "ratings": [5, 5, 4]
+    },
+    {
+        "id": 13,
+        "name": "BB Cream",
+        "brand": "Olay",
+        "category": "Foundation",
+        "price": 550,
+        "ratings": [4, 4, 5]
+    },
+    {
+        "id": 14,
+        "name": "Face Scrub",
+        "brand": "St. Ives",
+        "category": "Skin Care",
+        "price": 300,
+        "ratings": [4, 3, 4]
+    },
+    {
+        "id": 15,
+        "name": "Lip Liner",
+        "brand": "NYX",
+        "category": "Lipstick",
+        "price": 180,
+        "ratings": [4, 4, 5]
+    },
+    {
+        "id": 16,
+        "name": "Mascara",
+        "brand": "L'Oréal",
+        "category": "Eyes",
+        "price": 400,
+        "ratings": [5, 4, 4]
+    },
+    {
+        "id": 17,
+        "name": "Makeup Remover",
+        "brand": "Garnier",
+        "category": "Skin Care",
+        "price": 350,
+        "ratings": [5, 4, 5]
+    },
+    {
+        "id": 18,
+        "name": "Tinted Moisturizer",
+        "brand": "Clinique",
+        "category": "Skin Care",
+        "price": 900,
+        "ratings": [4, 5, 4]
+    },
+    {
+        "id": 19,
+        "name": "Eye Cream",
+        "brand": "Neutrogena",
+        "category": "Skin Care",
+        "price": 750,
+        "ratings": [5, 5, 4]
+    },
+    {
+        "id": 20,
+        "name": "Cleansing Balm",
+        "brand": "Clinique",
+        "category": "Skin Care",
+        "price": 1200,
+        "ratings": [4, 3, 5]
+    },
+    {
+        "id": 21,
+        "name": "Lipstick Ultra Matte",
+        "brand": "Revlon",
+        "category": "Lipstick",
+        "price": 400,
+        "ratings": [5, 5, 4]
+    },
+    {
+        "id": 22,
+        "name": "Liquid Lipstick",
+        "brand": "Maybelline",
+        "category": "Lipstick",
+        "price": 350,
+        "ratings": [5, 4, 5]
+    },
+    {
+        "id": 23,
+        "name": "Hydrating Face Cream",
+        "brand": "Olay",
+        "category": "Skin Care",
+        "price": 600,
+        "ratings": [4, 4, 5]
+    },
+    {
+        "id": 24,
+        "name": "Anti-Aging Serum",
+        "brand": "L'Oréal",
+        "category": "Skin Care",
+        "price": 750,
+        "ratings": [5, 4, 5]
+    },
+    {
+        "id": 25,
+        "name": "Waterproof Mascara",
+        "brand": "Maybelline",
+        "category": "Eyes",
+        "price": 450,
+        "ratings": [4, 4, 5]
+    },
+    {
+        "id": 26,
+        "name": "Eye Pencil",
+        "brand": "NYX",
+        "category": "Eyes",
+        "price": 250,
+        "ratings": [3, 4, 5]
+    },
+    {
+        "id": 27,
+        "name": "Concealer Stick",
+        "brand": "LA Girl",
+        "category": "Makeup",
+        "price": 180,
+        "ratings": [5, 3, 4]
+    },
+    {
+        "id": 28,
+        "name": "Makeup Setting Mist",
+        "brand": "Urban Decay",
+        "category": "Makeup",
+        "price": 950,
+        "ratings": [4, 4, 5]
+    },
+    {
+        "id": 29,
+        "name": "Moisturizing Primer",
+        "brand": "Smashbox",
+        "category": "Makeup",
+        "price": 1100,
+        "ratings": [4, 4, 3]
+    },
+    {
+        "id": 30,
+        "name": "Facial Cleanser",
+        "brand": "Neutrogena",
+        "category": "Skin Care",
+        "price": 300,
+        "ratings": [4, 4, 4]
+    },
+    {
+        "id": 31,
+        "name": "Shimmery Lip Gloss",
+        "brand": "MAC",
+        "category": "Lipstick",
+        "price": 800,
+        "ratings": [5, 5, 3]
+    },
+    {
+        "id": 32,
+        "name": "Brow Pencil",
+        "brand": "Benefit",
+        "category": "Makeup",
+        "price": 350,
+        "ratings": [4, 5, 5]
+    },
+    {
+        "id": 33,
+        "name": "Foundation Stick",
+        "brand": "Fenty Beauty",
+        "category": "Foundation",
+        "price": 850,
+        "ratings": [4, 4, 4]
+    },
+    {
+        "id": 34,
+        "name": "Blotting Powder",
+        "brand": "Laura Mercier",
+        "category": "Makeup",
+        "price": 1200,
+        "ratings": [5, 5, 4]
+    },
+    {
+        "id": 35,
+        "name": "Lip Balm SPF",
+        "brand": "Chapstick",
+        "category": "Lipstick",
+        "price": 100,
+        "ratings": [3, 3, 4]
+    },
+    {
+        "id": 36,
+        "name": "Exfoliating Mask",
+        "brand": "Origins",
+        "category": "Skin Care",
+        "price": 600,
+        "ratings": [4, 5, 5]
+    },
+    {
+        "id": 37,
+        "name": "Matte Lip Balm",
+        "brand": "Blistex",
+        "category": "Lipstick",
+        "price": 200,
+        "ratings": [5, 4, 5]
+    },
+    {
+        "id": 38,
+        "name": "Shampoo and Conditioner Set",
+        "brand": "TRESemmé",
+        "category": "Skin Care",
+        "price": 450,
+        "ratings": [4, 5, 3]
+    },
+    {
+        "id": 39,
+        "name": "Facial Tonic",
+        "brand": "Pixi",
+        "category": "Skin Care",
+        "price": 750,
+        "ratings": [4, 5, 4]
+    },
+    {
+        "id": 40,
+        "name": "Lip Stain",
+        "brand": "Burt's Bees",
+        "category": "Lipstick",
+        "price": 350,
+        "ratings": [5, 4, 5]
+    },
+    {
+        "id": 41,
+        "name": "Waterproof Eyeliner",
+        "brand": "L'Oréal",
+        "category": "Eyeliner",
+        "price": 300,
+        "ratings": [4, 5, 5]
+    },
+    {
+        "id": 42,
+        "name": "Nourishing Lip Oil",
+        "brand": "Clinique",
+        "category": "Lipstick",
+        "price": 900,
+        "ratings": [5, 4, 5]
+    },
+    {
+        "id": 43,
+        "name": "Facial Scrub",
+        "brand": "Neutrogena",
+        "category": "Skin Care",
+        "price": 400,
+        "ratings": [4, 4, 5]
+    },
+    {
+        "id": 44,
+        "name": "Body Lotion",
+        "brand": "Dove",
+        "category": "Skin Care",
+        "price": 250,
+        "ratings": [4, 3, 5]
+    },
+    {
+        "id": 45,
+        "name": "Peachy Lip Balm",
+        "brand": "Vaseline",
+        "category": "Lipstick",
+        "price": 150,
+        "ratings": [4, 4, 4]
+    },
+    {
+        "id": 46,
+        "name": "Hydrating Primer",
+        "brand": "Smashbox",
+        "category": "Makeup",
+        "price": 800,
+        "ratings": [5, 4, 5]
+    },
+    {
+        "id": 47,
+        "name": "Volumizing Mascara",
+        "brand": "Benefit",
+        "category": "Eyes",
+        "price": 400,
+        "ratings": [5, 4, 3]
+    },
+    {
+        "id": 48,
+        "name": "Lip Treatment Mask",
+        "brand": "Laneige",
+        "category": "Lipstick",
+        "price": 700,
+        "ratings": [5, 5, 4]
+    },
+    {
+        "id": 49,
+        "name": "Facial Cleansing Brush",
+        "brand": "Foreo",
+        "category": "Skin Care",
+        "price": 900,
+        "ratings": [4, 5, 5]
+    },
+    {
+        "id": 50,
+        "name": "Eyebrow Gel",
+        "brand": "Anastasia Beverly Hills",
+        "category": "Makeup",
+        "price": 350,
+        "ratings": [5, 4, 4]
+    }
+]
+
+
+
+
+
